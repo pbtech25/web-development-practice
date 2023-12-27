@@ -2,6 +2,7 @@
 
 I will be documenting my daily progress in Web Development 🤞🤗
 
-|   **DATE**   | **LEARNING**                |
-| :----------: | :-------------------------- |
-| _27/12/2023_ | Uploaded till date practice |
+|    **DATE**    | **LEARNING**                                                        |
+| :------------: | :------------------------------------------------------------------ |
+| **27/12/2023** | Uploaded till date practice                                         |
+| **28/12/2023** | Made a very simple Color Vocabulary project using just HTML and CSS |
