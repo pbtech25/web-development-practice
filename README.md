@@ -13,3 +13,4 @@ From recovering from a long break, I have started learning Web development again
 | :------------: | :----------------------------------------- |
 | **18/02/2024** | Started Web Development Boot camp again... |
 | **19/02/2024** | Learnt adding CSS Colors                   |
+|                | Learnt Font Properties                     |
